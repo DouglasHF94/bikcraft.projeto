@@ -63,4 +63,9 @@
     .bicicletas-lista ul {
         gap: 40px;
     }
+
+    .bicicletas-lista h2 {
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
 }
