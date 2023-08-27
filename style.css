@@ -1,3 +1,8 @@
 @import url(css/header.css);
 @import url(css/introducao.css);
 @import url(css/global.css);
+@import url(css/ultilitarios/componentes.css);
+@import url(css/bicicletas/bicicletas-lista.css);
+@import url(css/ultilitarios/cores.css);
+@import url(css/ultilitarios/tipografia.css);
+@import url(css/tecnologias.css);
