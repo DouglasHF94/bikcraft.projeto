@@ -9,7 +9,7 @@
 }
 
 
-a , h1 , p , h3 , h2 , h4, blockquote{
+a , h1 , p , h3 , h2 , h4, blockquote {
     padding: 0px;
     margin: 0px;
     text-decoration: none;
@@ -34,6 +34,7 @@ img[src$=".jpg"] {
 ul, li {
     text-decoration: none;
     list-style: none;
+    padding: 0px;
 }
 
 .link {
